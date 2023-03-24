@@ -6,7 +6,8 @@ def max_value(numbers):
     for num in numbers:
         if num > max:
             max= num
-    return max(hi)  
+    print (max)
+    return max 
 
 
 if __name__ == "__main__":
